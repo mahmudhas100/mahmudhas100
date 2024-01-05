@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there everyone 👋
 
-<!--
-**mahmudulhas100/mahmudulhas100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### This is Mahmudul Hasan, A noob programmer and designer
 
-Here are some ideas to get you started:
+Currently learning and working on with:\
+-Git and GitHub\
+-HTML, CSS and JS\
+-Python\
+-C and C++\
+-CyberSecurity\
+-Kali Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in:\
+-CyberSecurity\
+-Full Stack Development\
+-Ethical Hacking
+
+That's for now. Hope to meet with lot more soon.
