@@ -14,16 +14,16 @@
 - HTML, CSS and JS
 - C and C++
 - Python
-- Git and GitHub
+- Java
+- Artificial Intelligence
 - Cybersecurity
-- Kali Linux   
-  
 
 ✨Interested in:
 
-- Cybersecurity
-- Full Stack Development
-- Ethical Hacking  
+- Penetration Testing
+- Digital Forensics
+- Artificial Intelligence
+- Full Stack Web Development  
   
 
 <br/>  
@@ -52,10 +52,7 @@
 </a>
 <a href="https://github.com/mahmudhas100" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&labelColor=9a2ca0&color=9a2ca0 alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/mahmudhas100" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&labelColor=e1305c&color=e1305c alt=instagram style="margin-bottom: 5px;" />
-</a> <br> 
+</a> 
 <a href = "mailto: contact.mahmudhas@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Send_Mail-%23000000.svg?&style=for-the-badge&logo=gmail&labelColor=white&color=white alt=gmail style="margin-bottom: 5px;" />
 </a>
