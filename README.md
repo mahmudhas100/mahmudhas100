@@ -8,12 +8,12 @@
 <img src="https://lh3.googleusercontent.com/a/ACg8ocJDH-qURc5xQuWwSkOTzL3nNDW7h04akLCvQ0j4z0cWc9Ul=s192-c-rg-br100" align="center" height="150" width="150" />
 </div>  
 
-✨Interested in:
+✨Into:
 
 - Ethical Hacking
 - Digital Forensics
 - Artificial Intelligence
-- Full Stack Web Development  
+- Web Development
   
 
 <br/>  
